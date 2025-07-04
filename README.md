@@ -77,9 +77,9 @@ O modelo mymodel.pt foi então utilizado para realizar predições em novas imag
 yolo task=detect mode=predict model=mymodel.pt source=16.jpeg show=True
 ```
 
-:::info
-Para vídeo muda apenas a source.
-:::
+ℹ️
+**Para vídeo muda apenas a source.**
+
 
 ```bash
 yolo task=detect mode=predict model=mymodel.pt source=video4.mp4 show=True
