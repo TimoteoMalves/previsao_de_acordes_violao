@@ -31,6 +31,7 @@ O projeto consiste nas seguintes etapas:
 A estrutura de diretórios do projeto é organizada da seguinte forma:
 
 MYDATAG2/
+
 ├── runs/                   # Diretório para logs de treinamento e resultados.
 
 ├── train/                  # Imagens e labels para treinamento.
