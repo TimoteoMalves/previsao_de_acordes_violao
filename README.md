@@ -32,17 +32,29 @@ A estrutura de diretórios do projeto é organizada da seguinte forma:
 
 MYDATAG2/
 ├── runs/                   # Diretório para logs de treinamento e resultados.
+
 ├── train/                  # Imagens e labels para treinamento.
+
 ├── val/                    # Imagens e labels para validação.
+
 ├── 16.jpeg                 # Exemplo de imagem no dataset.
+
 ├── classes.txt             # Arquivo com os nomes das classes (acordes).
+
 ├── data_custom.yaml        # Arquivo de configuração do dataset.
+
 ├── foto_resultado.jpg      # Exemplo de imagem com predição.
+
 ├── mymodel.pt              # Modelo treinado customizado.
+
 ├── prediction.py           # Script para realizar predições.
+
 ├── train.py                # Script para treinar o modelo.
+
 ├── video_resultado.avi     # Exemplo de vídeo com predição.
+
 ├── video4.mp4              # Exemplo de vídeo de entrada.
+
 └── yolov11m.pt             # Modelo YOLOv11m pré-treinado (ou baixado).
 
 ## Processo de Implementação
