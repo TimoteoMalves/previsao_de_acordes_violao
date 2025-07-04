@@ -1,0 +1,6 @@
+train: C:\Users\timot\OneDrive\Área de Trabalho\Aulas 2025\inteligencia artificial\g2\mydatag2\train
+val: C:\Users\timot\OneDrive\Área de Trabalho\Aulas 2025\inteligencia artificial\g2\mydatag2\val
+
+nc: 4
+
+names: ["la", "violao", "re", "sol"]
